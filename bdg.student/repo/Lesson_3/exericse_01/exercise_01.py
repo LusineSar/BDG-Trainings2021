@@ -1,1 +1,4 @@
-#This is my first exercise_01
+smile = 5
+for a in range(1,5) :
+    s = "*"*19
+    print(s)
