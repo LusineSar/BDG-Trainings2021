@@ -1,9 +1,6 @@
 #a. Using one statement with one print function
-line_a = "*" * 19 
-print(f'''{line_a}
-{line_a}
-{line_a}
-{line_a}''')
+line_a = "*" * 19 + "\n" 
+print(line_a * 4)
 
 #b. Using four statement with one print function
 line_b_1 = "*" * 19
